@@ -99,6 +99,10 @@ Here are some ideas to get you started:
 
 ###
 
+<h3 align="left">🕹️   Play Games With Me</h3>
+
+###
+
 <img src="https://raw.githubusercontent.com/mdafaadiwinata/mdafaadiwinata/output/snake.svg" alt="Snake animation" />
 
 ###
