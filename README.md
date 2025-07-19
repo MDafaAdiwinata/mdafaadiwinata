@@ -103,6 +103,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/mdafaadiwinata/mdafaadiwinata/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mdafaadiwinata/mdafaadiwinata/output/snake-dark.svg" alt="Snake animation in dark mode" />>
 
 ###
