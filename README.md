@@ -45,10 +45,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Hallo, My Name is Adi 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
