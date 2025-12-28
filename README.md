@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🌐 Language</h3>
+<h2 align="left">🌐 Language</h2>
 
 ###
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<h2 align="left">🛠 Tools</h2>
 
 ###
 
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🕹️   Play Games With Me</h3>
+<h2 align="left">🕹️   Play Games With Me</h2>
 
 ###
 
