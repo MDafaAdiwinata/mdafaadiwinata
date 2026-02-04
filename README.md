@@ -60,29 +60,32 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="20" />
+    <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="20" />
 </div>
 
 ###
@@ -93,35 +96,35 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
+  <img width="20" />
     <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <img width="12" />
+  <img width="20" />
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="60" alt="apple logo"  />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="60" alt="stackoverflow logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=svg" height="60" alt="svg logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
-  <img width="12" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
 </div>
 
