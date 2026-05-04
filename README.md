@@ -64,9 +64,9 @@ Here are some ideas to get you started:
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next JS Logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="Supabase Logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="20" />
