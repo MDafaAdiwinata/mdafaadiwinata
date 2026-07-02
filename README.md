@@ -51,7 +51,10 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello and welcome!<br>My name is Muhammad Dafa Adiwinata, but you can call me Dafa or Adi. I’m currently a 11th-grade student at SMK Bina Informatika Bintaro, majoring in Software Engineering.<br><br>While my skill set is still growing, I’m always eager to learn, explore new technologies, and continuously improve myself. I’m passionate about building projects—ranging from small experiments to more complex applications.<br><br>Thank you for stopping by!</p>
+**FullStack Developer | Developer at OSIS SMK Bina Informatika IT Software | UI/UX Designer | Student at SMK Bina Informatika**
+
+<p align="justify">Hello! I am Adi, a Software Engineering student at SMK Bina Informatika Bintaro. I love building real and useful digital products, including websites, desktop apps, and Android applications.My main skills include Laravel, React, Next.js, PHP, MySQL, Tailwind CSS, Java, and Android Studio. With these tools, I can work on both front-end and back-end development. <br />
+I enjoy creating projects that solve everyday problems, such as school management systems, interactive websites, and mobile apps.Every line of code I write has one clear goal: to build something that works perfectly and helps people. Explore my projects and see what I can do!</p>
 
 ###
 
@@ -133,10 +136,11 @@ Here are some ideas to get you started:
 <h2 align="left">🔥   My Stats :</h2>
 
 ###
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdafaadiwinata&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://streak-stats.demolab.com/?user=mdafaadiwinata&theme=dark&hide_border=false)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdafaadiwinata&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+---
 
 ###
 
