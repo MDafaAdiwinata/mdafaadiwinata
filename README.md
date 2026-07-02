@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### **FullStack Developer | Developer at OSIS SMK Bina Informatika IT Software | UI/UX Designer | Student at SMK Bina Informatika**
 
-<p align="justify">Hello! I am Adi, a Software Engineering student at SMK Bina Informatika Bintaro. I love building real and useful digital products, including websites, desktop apps, and Android applications.My main skills include Laravel, React, Next.js, PHP, MySQL, Tailwind CSS, Java, and Android Studio. With these tools, I can work on both front-end and back-end development. <br />
+<p align="justify">Hello! I am Adi, a Software Engineering student at SMK Bina Informatika Bintaro. I love building real and useful digital products, including websites, desktop apps, and Android applications. My main skills include Laravel, React, Next.js, PHP, MySQL, Tailwind CSS, Java, and Android Studio. With these tools, I can work on both front-end and back-end development. <br /><br />
 I enjoy creating projects that solve everyday problems, such as school management systems, interactive websites, and mobile apps.Every line of code I write has one clear goal: to build something that works perfectly and helps people. Explore my projects and see what I can do!</p>
 
 ###
