@@ -1,4 +1,4 @@
-![M Dafa Adiwinata](img/adi-banner-profile.png)
+![M Dafa Adiwinata](img/banner_profile.png)
 
 <!--
 **MDafaAdiwinata/mdafaadiwinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
