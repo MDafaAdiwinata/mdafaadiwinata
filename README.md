@@ -76,6 +76,10 @@ I enjoy creating projects that solve everyday problems, such as school managemen
 | Albadi Carwash - Sistem Kasir, Transaksi | Website | 🔵 Review Stage | Private Project |
 | Studentok - Quiz Generate based AI System | Website | 🔴 On Hold | [studentok](https://studentok.my.id) |
 
+
+> [!CAUTION]
+> Please do not take the repo without my permission, unless it is open source.
+
 ###
 
 ---
