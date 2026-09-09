@@ -56,6 +56,30 @@ Here are some ideas to get you started:
 <p align="justify">Hello! I am Adi, a Software Engineering student at SMK Bina Informatika Bintaro. I love building real and useful digital products, including websites, desktop apps, and Android applications. My main skills include Laravel, React, Next.js, PHP, MySQL, Tailwind CSS, Java, and Android Studio. With these tools, I can work on both front-end and back-end development. <br /><br />
 I enjoy creating projects that solve everyday problems, such as school management systems, interactive websites, and mobile apps.Every line of code I write has one clear goal: to build something that works perfectly and helps people. Explore my projects and see what I can do!</p>
 
+---
+
+
+###
+
+## Project Progress
+
+| Nama Project | Type Project | Stats Project | Public Links |
+|---|---|---|---|
+| OSIS Smk Bina Informatika Web | Website | 🟢 Completed (_Online_) | [osissmkbi](https://osissmkbi.com) |
+| Coveita - News Web | Website | 🟢 Completed (_Online_) | [coveita](https://coveita.my.id) |
+| Todap - Website Todolist | Website | 🟢 Completed (_Online_) | [todap](https://todap-adz.vercel.app/) |
+| Pofin - Website Simulasi Deposito Bank | Website | 🟣 Completed (_Down_) | [pofin.my.id](https://pofin.my.id) |
+| Laundray - Website Cuci Pakaian | Website | 🟡 On Progress | on progress |
+| BI Channel SMK BI - Compro Website | Website | 🟡 On Progress | on progress |
+| Nexative - Compro Website | Website | 🟡 On requires development | requires development |
+| Biwal - Sistem Jadwal Sekolah | Website | 🔵 Review Stage | on review |
+| Albadi Carwash - Sistem Kasir, Transaksi | Website | 🔵 Review Stage | Private Project |
+| Studentok - Quiz Generate based AI System | Website | 🔴 On Hold | [studentok](https://studentok.my.id) |
+
+###
+
+---
+
 ###
 
 <h2 align="left">🌐 Language</h2>
@@ -151,3 +175,5 @@ I enjoy creating projects that solve everyday problems, such as school managemen
 <img src="https://raw.githubusercontent.com/mdafaadiwinata/mdafaadiwinata/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
